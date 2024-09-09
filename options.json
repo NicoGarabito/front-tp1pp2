@@ -1,0 +1,9 @@
+{
+    "options": [
+        { "value": "opcion1", "text": "Opción 1" },
+        { "value": "opcion2", "text": "Opción 2" },
+        { "value": "opcion3", "text": "Opción 3" },
+        { "value": "opcion4", "text": "Opción 4" },
+        { "value": "opcion5", "text": "Opción 5" }
+    ]
+}
